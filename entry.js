@@ -1,4 +1,4 @@
-import HexletFs from './HexletFs';
+import HexletFs from './03_fs_dynamic_dispetcherization/HexletFs';
 let files;
 files = new HexletFs();
 files.mkdirSync('/etc');

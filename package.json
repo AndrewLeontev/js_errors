@@ -1,0 +1,26 @@
+{
+  "name": "js_errors",
+  "version": "1.0.0",
+  "description": "hexlet fs errors",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewleontev/JS_errors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewleontev/JS_errors/issues"
+  },
+  "homepage": "https://github.com/andrewleontev/JS_errors#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
